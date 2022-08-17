@@ -1,12 +1,13 @@
-### Hi there 👋
+Hi there 👋
+I am Amanda Emily Smith. I am studying junior web development in Generation, an amazing bootcamp to accelerate my skills. I have learned the fundamentals of HTML, CSS, SCRUM and Bootstrap. We will soon dive in Javascript! I am so excited about this work. 
+
+- 🔭 I’m currently working on a task management application.
+- 🌱 I’m currently learning responsive design. 
 
 <!--
 **AmandaEm/AmandaEm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
