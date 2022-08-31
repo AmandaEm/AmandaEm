@@ -1,5 +1,5 @@
 Hi there 👋
-I am Amanda Emily Smith. I am studying junior web development in Generation, an amazing bootcamp to accelerate my skills. I have learned the fundamentals of HTML, CSS, SCRUM and Bootstrap. We just dived in Javascript! JS is such a dynamic language that opens up a whole world in web development. I am so excited about this work. 
+I am Amanda Emily Smith, a woman born and raised in New Orleans. I am studying junior web development in Generation, an amazing bootcamp to accelerate my skills. I have learned the fundamentals of HTML, CSS, SCRUM and Bootstrap. We just dived in Javascript! JS is such a dynamic language that opens up a whole world in web development. I am so excited about this work. 
 
 - 🔭 I’m currently working on a task management application.
 - 🌱 I’m currently learning JavaScript! 
