@@ -7,7 +7,7 @@ I am Amanda Emily Smith, a woman born and raised in New Orleans. I am studying j
 - 🤔 I’m looking for help with creating a portfolio.
 - 💬 Ask me about my passion for this work!
 - 📫 How to reach me: Linkedin: Amanda Emily Smith
-- 😄 Pronouns: she/they
+- 👩🏾‍🦱 Pronouns: she/they
 - ⚡ Fun fact: I love to go camping in the woods. 
 
 <!--
