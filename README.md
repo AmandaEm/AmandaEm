@@ -4,7 +4,6 @@ I am Amanda Emily Smith, a woman born and raised in New Orleans. I am studying j
 - 🔭 I’m currently working on a task management application, an affirmation application and perfecting my portfolio.
 - 🌱 I’m currently learning JavaScript! 
 - 👯 I’m looking to collaborate on apps and webpages.
-- 🤔 I’m looking for help with creating a portfolio.
 - 💬 Ask me about my passion for this work!
 - 📫 How to reach me: Linkedin: Amanda Emily Smith
 - 👩🏾‍🦱 Pronouns: she/they
@@ -12,7 +11,7 @@ I am Amanda Emily Smith, a woman born and raised in New Orleans. I am studying j
 
 <!--
 **AmandaEm/AmandaEm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🤔 I’m looking for help with creating a portfolio.
 Here are some ideas to get you started:
 
 -->
